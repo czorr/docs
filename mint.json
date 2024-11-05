@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#6366f1",
     "light": "#07C983",
-    "dark": "#0D9373",
+    "dark": "#6366f1",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#6366f1",
+      "to": "#6366f1"
     }
   },
   "topbarLinks": [
@@ -43,13 +43,8 @@
     },
     {
       "name": "Community",
-      "icon": "slack",
+      "icon": "discord",
       "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
@@ -88,8 +83,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/metabrainai",
+    "github": "https://github.com/metabrain-ai",
+    "linkedin": "https://linkedin.com/company/metabrainai"
   }
 }
