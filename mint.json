@@ -29,6 +29,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "Getting Started",
+      "url": "getting-started"
     }
   ],
   "anchors": [
