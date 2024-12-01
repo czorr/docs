@@ -59,12 +59,12 @@
     {
       "group": "Essentials",
       "pages": [
+        "essentials/core",
         "essentials/builder",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/neurons",
+        "essentials/blocks",
+        "essentials/sidebar",
+        "essentials/development"
       ]
     },
     {
